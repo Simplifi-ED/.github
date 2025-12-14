@@ -1,4 +1,4 @@
-## Simplifi’ED another vision of Cloud & DevOps
+## Omnivya
 
 - 🔭 Cloud & DevOps automation and optimization
 - 🌱 Team Training and passage of knowledge
