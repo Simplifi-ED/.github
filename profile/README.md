@@ -1,22 +1,51 @@
-## Omnivya
+# Omnivya Engineering
 
-- 🔭 Cloud & DevOps automation and optimization
-- 🌱 Team Training and passage of knowledge
-- ♻️ CICD Pipelines migrations
+**Cloud, platform and software engineering for systems that need to be reliable, observable, secure and operable.**
 
+This GitHub organization hosts public engineering work maintained by the team behind [Omnivya](https://www.omnivya.fr/).
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=%23EF7B4D) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![ISTIO](https://img.shields.io/badge/istio-466BB0.svg?style=for-the-badge&logo=istio&logoColor=white&color=%23466BB0) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PACKER](https://img.shields.io/badge/packer-02A8EF.svg?style=for-the-badge&logo=packer&logoColor=white&color=%2302A8EF) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![VAULT](https://img.shields.io/badge/vault-FFEC6E.svg?style=for-the-badge&logo=vault&logoColor=white&color=%23FFEC6E) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+Our open-source work focuses on practical infrastructure and platform problems: understanding dependencies, operating Kubernetes and cloud environments, improving CI/CD security, making infrastructure costs explicit, and building tooling that removes operational friction.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/simplifi-ed/) 
-<!--
+## Engineering focus
 
-**Here are some ideas to get you started:**
+- **Cloud & infrastructure** — Azure, hybrid architectures, infrastructure automation and cost visibility.
+- **Kubernetes & platform engineering** — operators, workload lifecycle, GitOps and platform automation.
+- **SRE & observability** — Prometheus, OpenTelemetry, dependency signals, diagnostics and reliability engineering.
+- **Security & software supply chain** — SBOM, secret detection, CI/CD security and policy enforcement.
+- **Developer & operations tooling** — focused tools designed to be understandable, testable and useful in real environments.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Selected projects
+
+### [External Metrics Exporter](https://github.com/Simplifi-ED/external-metrics-exporter)
+Discovers external dependencies used by Kubernetes workloads, builds blast-radius context and exports provider-neutral SRE signals across cloud and SaaS systems.
+
+### [cloudcost](https://github.com/Simplifi-ED/cloudcost)
+Queries Azure retail pricing to make infrastructure cost assumptions explicit, comparable and reproducible.
+
+### [Azure DevOps Kubernetes Operator](https://github.com/Simplifi-ED/azdo-kube-operator)
+Runs self-hosted Azure DevOps agents on Kubernetes and adjusts capacity according to pipeline demand.
+
+### [Azure DevOps Supply-Chain Scanner](https://github.com/Simplifi-ED/ShaiHulud-AzureDevops-Scanner)
+Generates SBOMs, scans repositories for exposed secrets and evaluates software supply-chain policies with Dependency-Track.
+
+### [container compose](https://github.com/Simplifi-ED/compose)
+Provides Compose-style orchestration for Apple's container runtime on macOS, including dependency-aware startup, health checks and operational commands.
+
+### [setup-step-cli](https://github.com/Simplifi-ED/setup-step-cli)
+Installs Smallstep CLI reproducibly in GitHub Actions with CI, CodeQL and release automation.
+
+## Engineering principles
+
+We prefer explicit architecture, observable behaviour and documented limitations over opaque automation.
+
+Public repositories should make it possible to understand:
+
+- why the project exists;
+- what problem it solves;
+- how the main components interact;
+- what security and operational assumptions it makes;
+- what is stable, experimental or intentionally unsupported.
+
+## Links
+
+[Omnivya](https://www.omnivya.fr/) · [LinkedIn](https://www.linkedin.com/company/simplifi-ed/)
