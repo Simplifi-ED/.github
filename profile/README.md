@@ -1,8 +1,8 @@
 # Omnivya Engineering
 
-**Cloud, platform and software engineering for systems that need to be reliable, observable, secure and operable.**
+**Cloud architecture, Kubernetes/AKS, Platform Engineering, SRE, OpenTelemetry, DevSecOps, software supply chain and FinOps for critical systems.**
 
-This GitHub organization hosts public engineering work maintained by the team behind [Omnivya](https://www.omnivya.fr/).
+This GitHub organization hosts public engineering work maintained by [Omnivya](https://www.omnivya.fr/), a technical and strategic expertise firm for CTOs and CIOs.
 
 Our open-source work focuses on practical infrastructure and platform problems: understanding dependencies, operating Kubernetes and cloud environments, improving CI/CD security, making infrastructure costs explicit, and building tooling that removes operational friction.
 
@@ -13,6 +13,20 @@ Our open-source work focuses on practical infrastructure and platform problems: 
 - **SRE & observability** — Prometheus, OpenTelemetry, dependency signals, diagnostics and reliability engineering.
 - **Security & software supply chain** — SBOM, secret detection, CI/CD security and policy enforcement.
 - **Developer & operations tooling** — focused tools designed to be understandable, testable and useful in real environments.
+
+## Expertise and commercial help
+
+For a senior review, diagnostic or engagement, use the specific Omnivya expertise pages:
+
+- [Cloud architecture](https://www.omnivya.fr/expertises/architecture-cloud/)
+- [Kubernetes & AKS](https://www.omnivya.fr/expertises/kubernetes/)
+- [Platform Engineering](https://www.omnivya.fr/expertises/platform-engineering/)
+- [OpenTelemetry & observability](https://www.omnivya.fr/expertises/opentelemetry-observabilite/)
+- [Site Reliability Engineering](https://www.omnivya.fr/expertises/sre/)
+- [DevSecOps](https://www.omnivya.fr/expertises/devsecops/)
+- [Software supply chain, SBOM & SLSA](https://www.omnivya.fr/expertises/software-supply-chain-security/)
+- [FinOps](https://www.omnivya.fr/expertises/finops/)
+- [Engagement formats](https://www.omnivya.fr/missions/)
 
 ## Selected projects
 
