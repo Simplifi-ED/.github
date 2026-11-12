@@ -1,65 +1,55 @@
-# Omnivya Engineering
+# Omnivya
 
-**Cloud architecture, Kubernetes/AKS, Platform Engineering, SRE, OpenTelemetry, DevSecOps, software supply chain and FinOps for critical systems.**
+**Technical and strategic expertise for hard-to-reverse cloud, platform and reliability decisions.**
 
-This GitHub organization hosts public engineering work maintained by [Omnivya](https://www.omnivya.fr/), a technical and strategic expertise firm for CTOs and CIOs.
+Architecture cloud · Kubernetes / AKS · Platform Engineering · OpenTelemetry / SRE · DevSecOps · FinOps
 
-Our open-source work focuses on practical infrastructure and platform problems: understanding dependencies, operating Kubernetes and cloud environments, improving CI/CD security, making infrastructure costs explicit, and building tooling that removes operational friction.
+<p align="center">
+  <a href="https://www.omnivya.fr/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=readme">Website</a> ·
+  <a href="https://www.omnivya.fr/missions/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=readme">Missions</a> ·
+  <a href="https://www.omnivya.fr/work/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=readme">Public work</a> ·
+  <a href="https://etienne.deneuve.xyz/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=readme">CTO field notes</a>
+</p>
 
-## Engineering focus
+## English
 
-- **Cloud & infrastructure** — Azure, hybrid architectures, infrastructure automation and cost visibility.
-- **Kubernetes & platform engineering** — operators, workload lifecycle, GitOps and platform automation.
-- **SRE & observability** — Prometheus, OpenTelemetry, dependency signals, diagnostics and reliability engineering.
-- **Security & software supply chain** — SBOM, secret detection, CI/CD security and policy enforcement.
-- **Developer & operations tooling** — focused tools designed to be understandable, testable and useful in real environments.
+Omnivya is a technical and strategic expertise firm for CTOs and CIOs. We step in when an architecture, platform, resilience or transformation decision needs senior, independent technical judgment.
 
-## Expertise and commercial help
+Our job is to make the options, dependencies and risks clear enough to decide. We work across cloud architecture, Kubernetes, Platform Engineering, observability, SRE, DevSecOps, software supply-chain security, FinOps and distributed systems.
 
-For a senior review, diagnostic or engagement, use the specific Omnivya expertise pages:
+[See how we engage](https://www.omnivya.fr/missions/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=missions-en) · [Browse public work](https://www.omnivya.fr/work/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=work-en) · [Contact](https://www.omnivya.fr/contact/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=contact-en)
 
-- [Cloud architecture](https://www.omnivya.fr/expertises/architecture-cloud/)
-- [Kubernetes & AKS](https://www.omnivya.fr/expertises/kubernetes/)
-- [Platform Engineering](https://www.omnivya.fr/expertises/platform-engineering/)
-- [OpenTelemetry & observability](https://www.omnivya.fr/expertises/opentelemetry-observabilite/)
-- [Site Reliability Engineering](https://www.omnivya.fr/expertises/sre/)
-- [DevSecOps](https://www.omnivya.fr/expertises/devsecops/)
-- [Software supply chain, SBOM & SLSA](https://www.omnivya.fr/expertises/software-supply-chain-security/)
-- [FinOps](https://www.omnivya.fr/expertises/finops/)
-- [Engagement formats](https://www.omnivya.fr/missions/)
+## Français
 
-## Selected projects
+Omnivya est un cabinet d’expertise technique et stratégique pour CTO et DSI. Nous intervenons lorsqu’une décision d’architecture, de plateforme, de résilience ou de transformation demande un regard senior et indépendant.
 
-### [External Metrics Exporter](https://github.com/Simplifi-ED/external-metrics-exporter)
-Discovers external dependencies used by Kubernetes workloads, builds blast-radius context and exports provider-neutral SRE signals across cloud and SaaS systems.
+Notre travail consiste à rendre les options, les dépendances et les risques assez clairs pour décider. Nous intervenons en architecture cloud, Kubernetes, Platform Engineering, observabilité, SRE, DevSecOps, sécurité de la supply chain logicielle, FinOps et systèmes distribués.
 
-### [cloudcost](https://github.com/Simplifi-ED/cloudcost)
-Queries Azure retail pricing to make infrastructure cost assumptions explicit, comparable and reproducible.
+[Voir les missions](https://www.omnivya.fr/fr/missions/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=missions-fr) · [Voir les travaux publics](https://www.omnivya.fr/fr/travaux/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=work-fr) · [Contact](https://www.omnivya.fr/fr/contact/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=contact-fr)
 
-### [Azure DevOps Kubernetes Operator](https://github.com/Simplifi-ED/azdo-kube-operator)
-Runs self-hosted Azure DevOps agents on Kubernetes and adjusts capacity according to pipeline demand.
+## Open-source engineering
 
-### [Azure DevOps Supply-Chain Scanner](https://github.com/Simplifi-ED/ShaiHulud-AzureDevops-Scanner)
-Generates SBOMs, scans repositories for exposed secrets and evaluates software supply-chain policies with Dependency-Track.
+A few projects, in deliberate order:
 
-### [container compose](https://github.com/Simplifi-ED/compose)
-Provides Compose-style orchestration for Apple's container runtime on macOS, including dependency-aware startup, health checks and operational commands.
+- [external-metrics-exporter](https://github.com/Simplifi-ED/external-metrics-exporter) — maps external dependencies used by Kubernetes workloads and exports provider-neutral SRE signals.
+- [azdo-kube-operator](https://github.com/Simplifi-ED/azdo-kube-operator) — scales self-hosted Azure DevOps agents on Kubernetes from pipeline demand.
+- [cloudcost](https://github.com/Simplifi-ED/cloudcost) — queries Azure retail pricing to make infrastructure cost assumptions explicit and reproducible.
+- [compose](https://github.com/Simplifi-ED/compose) — Compose-style orchestration for Apple’s container runtime on macOS.
+- [ShaiHulud-AzureDevops-Scanner](https://github.com/Simplifi-ED/ShaiHulud-AzureDevops-Scanner) — SBOM, secret detection and software supply-chain policy checks for Azure DevOps repositories.
 
-### [setup-step-cli](https://github.com/Simplifi-ED/setup-step-cli)
-Installs Smallstep CLI reproducibly in GitHub Actions with CI, CodeQL and release automation.
+## Start from the decision / Partir de la décision
 
-## Engineering principles
+- Architecture or migration choice: [EN](https://www.omnivya.fr/missions/revue-architecture/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=architecture-review-en) · [FR](https://www.omnivya.fr/fr/missions/revue-architecture/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=architecture-review-fr)
+- Critical cloud or Kubernetes platform risk: [EN](https://www.omnivya.fr/missions/audit-plateforme/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=platform-review-en) · [FR](https://www.omnivya.fr/fr/missions/audit-plateforme/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=platform-review-fr)
+- Incidents, costs, dependencies or conflicting signals before a transformation: [EN](https://www.omnivya.fr/missions/diagnostic-cible/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=diagnostic-en) · [FR](https://www.omnivya.fr/fr/missions/diagnostic-cible/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=diagnostic-fr)
 
-We prefer explicit architecture, observable behaviour and documented limitations over opaque automation.
+## Public proof / Preuves publiques
 
-Public repositories should make it possible to understand:
+- [Étienne Deneuve — CTO field notes](https://etienne.deneuve.xyz/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=etienne) — architecture decisions, production lessons and technical experiments.
+- [Unchair](https://github.com/EtienneDeneuve/unchair) — public macOS engineering project by Omnivya CTO Étienne Deneuve. [FR](https://www.omnivya.fr/fr/open-source/unchair/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=unchair-fr) · [EN](https://www.omnivya.fr/open-source/unchair/?utm_source=github&utm_medium=organization&utm_campaign=github-profile&utm_content=unchair-en)
 
-- why the project exists;
-- what problem it solves;
-- how the main components interact;
-- what security and operational assumptions it makes;
-- what is stable, experimental or intentionally unsupported.
+## About this GitHub namespace
 
-## Links
+This organisation keeps the historical **Simplifi-ED** GitHub namespace. **Omnivya** is the current brand.
 
-[Omnivya](https://www.omnivya.fr/) · [LinkedIn](https://www.linkedin.com/company/simplifi-ed/)
+Cette organisation conserve le namespace GitHub historique **Simplifi-ED**. **Omnivya** est la marque actuelle.
